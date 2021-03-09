@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+   width: 100%;
+   height: 40px;
+   background-color: rgba(96, 96, 96,0.6);
+}
+header nav{
+    text-align: center;
+   color:#eee;
+}
+ul li{
+    float: right;
+    padding-left: 50px;
+    
+}
+ul li a{
+    color: #eee;
+}
+
+#form{
+    clear: both;
+    margin-top: 30px;
+}
+#divtable{
+    /* width: 50%; */
+}
+table{
+    border: 2px solid black;
+}
+table td , th{
+    border:cadetblue solid 1px;
+    padding: 5px;
+}
